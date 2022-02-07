@@ -12,6 +12,8 @@
 
 - [SSH-Github](https://ltuc.github.io/SSH-Github)
 
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
 ## Links
 
 - [PostgreSQL (WSL)](https://harshityadav95.medium.com/postgresql-in-windows-subsystem-for-linux-wsl-6dc751ac1ff3)
