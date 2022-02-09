@@ -14,6 +14,9 @@
 
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
+- [testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
+
+
 ## Links
 
 - [PostgreSQL (WSL)](https://harshityadav95.medium.com/postgresql-in-windows-subsystem-for-linux-wsl-6dc751ac1ff3)
